@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/aboutcompany.xml" value="0.3211050724637681" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/anketa.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/company.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/contacts.xml" value="0.5" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/doctor.xml" value="1.1661184210526316" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/infoaboutdoctors.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/massage.xml" value="0.3211050724637681" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/metodics.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/moredoctors.xml" value="0.3211050724637681" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/pediatrician.xml" value="0.3211050724637681" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/service.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/services.xml" value="0.3211050724637681" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/vizov.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LastIndividualProject/app/src/main/res/layout/welcome.xml" value="0.4466666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
